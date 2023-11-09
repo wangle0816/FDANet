@@ -4,15 +4,15 @@ A deeper understanding of the material plastic flow mechanism during CCSC manufa
 
 ## Usage
 ### Requirements
---PyTorch >= 1.7.0
---python >= 3.7
---CUDA >= 11.0
---numpy
---open3d
---timm
+--PyTorch >= 1.7.0\
+--python >= 3.7\
+--CUDA >= 11.0\
+--numpy\
+--open3d\
+--timm\
 --torchvision
 #### Pytorch Extensions
---PointNet++
---KNN_CUDA
---Chamfer Distance
+--PointNet++\
+--KNN_CUDA\
+--Chamfer Distance\
 (The code is being prepared for open source...)
