@@ -15,8 +15,9 @@ A deeper understanding of the material plastic flow mechanism during CCSC manufa
 --PointNet++\
 --KNN_CUDA\
 --Chamfer Distance\
-(The code is being prepared for open source...)
 ###Dataset
---Diverse bent tube dataset <https://drive.google.com/drive/folders/1gTOKAKfxA2WRqMTwwZcVaatI-N3Ce2el?usp=drive_link>
---ShapeNet dataset <https://pan.baidu.com/s/1MavAO_GHa0a6BZh4Oaogug> <password:3hoe>
---MVP dataset <https://drive.google.com/drive/folders/1XxZ4M_dOB3_OG1J6PnpNvrGTie5X9Vk_>
+--Diverse bent tube dataset <https://drive.google.com/drive/folders/1gTOKAKfxA2WRqMTwwZcVaatI-N3Ce2el?usp=drive_link>\
+--ShapeNet dataset <https://pan.baidu.com/s/1MavAO_GHa0a6BZh4Oaogug> <password:3hoe>\
+--MVP dataset <https://drive.google.com/drive/folders/1XxZ4M_dOB3_OG1J6PnpNvrGTie5X9Vk_>\
+
+(The code is being prepared for open source...)
